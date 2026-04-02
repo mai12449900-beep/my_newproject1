@@ -1,0 +1,24 @@
+{
+  "name": "my_newproject1",
+  "version": "1.0.0",
+  "description": "Tesing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mai12449900-beep/my_newproject1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/mai12449900-beep/my_newproject1/issues"
+  },
+  "homepage": "https://github.com/mai12449900-beep/my_newproject1#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
